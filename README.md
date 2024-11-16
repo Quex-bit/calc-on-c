@@ -4,7 +4,7 @@
 
 This C++ program is a console-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation to receive the result.
 
-##Explanation of the methods used in the code:##
+## Explanation of the methods used in the code:
 
 ### 1. `showMenu`
 - Purpose: This function displays the calculator's menu options to the user and captures their choice.
